@@ -1,0 +1,58 @@
+{
+    "australia": {
+      "siglaFlag": "au",
+      "tentativas": ["australia", "austrália", "au"]
+    },
+    "fiji": {
+      "siglaFlag": "fj",
+      "tentativas": ["fiji", "fiji", "fj"]
+    },
+    "kiribati": {
+      "siglaFlag": "ki",
+      "tentativas": ["kiribati", "kiribati", "ki"]
+    },
+    "marshallIslands": {
+      "siglaFlag": "mh",
+      "tentativas": ["marshall islands", "ilhas marshall", "mh"]
+    },
+    "micronesia": {
+      "siglaFlag": "fm",
+      "tentativas": ["micronesia", "micronésia", "fm"]
+    },
+    "nauru": {
+      "siglaFlag": "nr",
+      "tentativas": ["nauru", "nauru", "nr"]
+    },
+    "newZealand": {
+      "siglaFlag": "nz",
+      "tentativas": ["new zealand", "nova zelândia", "nz"]
+    },
+    "palau": {
+      "siglaFlag": "pw",
+      "tentativas": ["palau", "palau", "pw"]
+    },
+    "papuaNewGuinea": {
+      "siglaFlag": "pg",
+      "tentativas": ["papua new guinea", "papua nova guiné", "pg"]
+    },
+    "samoa": {
+      "siglaFlag": "ws",
+      "tentativas": ["samoa", "samoa", "ws"]
+    },
+    "solomonIslands": {
+      "siglaFlag": "sb",
+      "tentativas": ["solomon islands", "ilhas salomão", "sb"]
+    },
+    "tonga": {
+      "siglaFlag": "to",
+      "tentativas": ["tonga", "tonga", "to"]
+    },
+    "tuvalu": {
+      "siglaFlag": "tv",
+      "tentativas": ["tuvalu", "tuvalu", "tv"]
+    },
+    "vanuatu": {
+      "siglaFlag": "vu",
+      "tentativas": ["vanuatu", "vanuatu", "vu"]
+    }
+  }
