@@ -1,4 +1,5 @@
 {
+"dados":{
     "australia": {
       "siglaFlag": "au",
       "tentativas": ["australia", "austrália", "au"]
@@ -56,3 +57,4 @@
       "tentativas": ["vanuatu", "vanuatu", "vu"]
     }
   }
+}
